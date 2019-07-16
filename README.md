@@ -7,7 +7,7 @@ mkdir workspace_raspberry_pi
 cd workspace_raspberry_pi
 git clone https://github.com/qinghuizeng/raspberrypi.git
 ```
-If your workspace setting is different with it, please update the corresponing path occurs in the following documents. 
+If your workspace setting is different with it, please update the corresponing path occuring in the following documents. 
 
 ## 2. Intall toolchain
 This repository includes a copy of cross-compiling toolchain for Raspberry Pi from Raspberry Pi official github repository, the commit id is 49719d5544cd33b8c146235e1420f68cd92420fe. It's under 'tools' folder. 
